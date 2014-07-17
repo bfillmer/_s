@@ -15,6 +15,12 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 * Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
+Like any developer with an opinion bfillmer has his own slightly different way of starting a new theme, so this fork has the following major differences from the default `underscores`:
+
+* Slightly modified directory structure.
+* LESS!
+* Starter package and gruntfile for leveraging Grunt.
+
 Getting Started
 ---------------
 
