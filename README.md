@@ -20,6 +20,7 @@ Like any developer with an opinion bfillmer has his own slightly different way o
 * Slightly modified directory structure.
 * LESS!
 * Starter package and gruntfile for leveraging Grunt.
+* DRY! base.php theme wrapper to simplify template files.
 
 Getting Started
 ---------------
